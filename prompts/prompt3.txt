@@ -1,0 +1,30 @@
+1) Extract stigma experienced during recovery on a scale of Low, Moderate, and High. Here are the descriptions to ground your understanding of the scale. Respond “N/A” if no information in the above text applies. 
+Stigma
+    Low : Participant describes experiencing a low amount of stigma at macro, meso, and/or micro levels throughout the course of their addiction.  For example, participant may describe experiencing very few barriers to seeking treatment, no poor treatment or stigmatization from healthcare providers, and generally positive self-view. 
+    Moderate : Participant describes experiencing a moderate amount of stigma at macro, meso, and/or micro levels throughout the course of their addiction.  For example, participant may describe experiencing some barriers to seeking treatment, occasional or moderate unfair treatment or stigmatization from healthcare providers, and fluctuating or moderate self-view. 
+    High : Participant describes experiencing a high amount of stigma at macro, meso, and/or micro levels throughout the course of their addiction. For example, participant may describe experiencing exceptionally large barriers to seeking treatment, stigmatizing and unfair treatment from healthcare providers, and generally negative self-view. 
+     
+2) Extract the role of self in recovery on a scale of Low, Moderate, and High. Here are the descriptions to ground your understanding of the scale. Respond “N/A” if no information in the above text applies.  
+Role of Self in Recovery
+    High: Participant describes their recovery as being self-driven. They feel that they played an active role in initiating or seeking their own recovery. 
+    Moderate : Participant describes their recovery as being driven by in part by their own actions, in part by others’ actions. They feel that they played a moderate role in seeking out their own recovery.
+    Low : Participant describes their recovery as being driven by forces external to themselves. They feel that they played little to no active role in seeking out their own recovery or working towards their treatment.  
+
+3) Extract the most likely locus of control of the participant on a scale of Internal, Moderate, and External. Here are the descriptions to ground your understanding of the scale. Respond “N/A” if no information in the above text applies.
+Locus of Control
+    Internal: Participant’s current attitudes when speaking about their own actions during their recovery process reveal that they are likely most aligned with a highly internal locus of control orientation. 
+    Moderate: Participant’s current attitudes when speaking about their own actions during their recovery process reveal that they would likely rank moderately on Rotter’s locus of control scale.
+    External: Participant’s current attitudes when speaking about their own actions during their recovery process reveal that they are likely most aligned with a highly external locus of control orientation. 
+
+4) Extract the degree of helplessness experienced on a scale of Low, Moderate, and High. Here are the descriptions to ground your understanding of the scale. Respond “N/A” if no information in the above text applies.
+Helplessness
+    Low: The participant speaks about their addiction in such a way that indicate they would score low on helplessness.
+    Moderate: The participant speaks about their addiction in such a way that indicate they would score moderately on helplessness.
+    High: The participant speaks about their addiction in such a way that indicate they would score high on helplessness.
+
+5) Extract the perception of destiny to being addicted. Here are the descriptions to ground your understanding of the scale. Respond “N/A” if no information in the above text applies.
+Destiny
+    Low : The participant describes a low sense of destiny to becoming addicted. They describe their addiction with a sentiment of it being a mistake, a wrong turn, or with a level of remorse or acknowledgement that things could have been different if they had made different decisions.
+    Moderate : The participant describes a moderate sense of destiny to becoming addicted. They express being unsure about whether their addiction was inevitable, or they express mixed sentiment on the subject.
+    High : The participant describes a high sense of destiny to becoming addicted. They describe being raised in an environment that ultimately led them to addiction, mention a biological or genetic component to their addiction, or express that they would have become addicted sooner or later regardless of what they do.
+

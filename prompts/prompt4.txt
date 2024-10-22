@@ -1,0 +1,14 @@
+1) Extract reason identified for initiation of opioid use. Examples may include: out of curiosity, for fun, “I was young and stupid”, medical prescription, to treat mental health symptoms, etc. 
+    List reason that participant attributes to their opioid addiction. Examples may include: self-treating symptoms of psychiatric illness, being overly-prescribed opioids, being young and curious, etc. 
+    If more than one reason given, list all. 
+    If participant gives primary reason and secondary reason, list in order of relevance. 
+    List N/A if no reason is identified 
+
+
+2) Extract involvement of other in initiation with a score of 1 or 2. Here are your descriptions for scoring. Respond “N/A” if no information in the above text applies.
+    1 - Participant identifies no direct involvement of another person in the initiation of their opioid. They sought out the drug solely out of their own volition and curiosity. They were not prescribed it or given it by another person (e.g. parent, friend, dealer).
+    2 - Participant identifies the direct involvement of another individual in the initiation of their opioid use. They were prescribed the drug, or given it by another person (e.g. parent, friend, dealer).
+
+3) Extract involvement of medication in treatment with a score of 1 or 2. Here are your descriptions for scoring. Respond “N/A” if no information in the above text applies.
+    1 - Participant identifies use of medication-assisted treatment during recovery.
+    2 - Participant identifies no use of medication-assisted treatment during recovery.
