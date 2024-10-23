@@ -37,7 +37,7 @@ def assign(input_folder: str,
 
     ai = GPTModel(openai_key,
                 task=analyze ,
-                model="gpt-4-vision-preview")
+                model="gpt-4o-mini")
 
     example_json_template = """
     ```json
