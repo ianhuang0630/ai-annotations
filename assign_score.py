@@ -23,7 +23,15 @@ def assign(input_folder: str,
         )
 
     files = os.listdir(input_folder)
-    files = [os.path.join(input_folder, f) for f in files]
+    files = [os.path.join(input_folder, f) for f in files if not f.startswith(".")]
+    for f in files:
+        try:
+            with open(f, "r") as fi:
+                raw_text = fi.read()
+        except Exception as e:
+            print(f"{f} gave the following error: \n{e}")
+            exit()
+
 
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -100,16 +108,6 @@ def assign(input_folder: str,
             exit
         else:
             print(f"invalid option {yesno}")
-
-
-    for f in files:
-        try:
-            with open(f, "r") as fi:
-                raw_text = fi.read()
-
-        except Exception as e:
-            print(f"{f} gave the following error: \n{e}")
-            exit()
 
 
     for f in tqdm(files):
