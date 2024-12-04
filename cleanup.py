@@ -15,7 +15,7 @@ def cleanup(input_dir: str,
         "sampleID":[],
     }
 
-
+    counter = 0
     for fi in files:
         with open(fi, "r") as f:
             d = json.load(f)
@@ -28,15 +28,15 @@ def cleanup(input_dir: str,
                     columname = key+"_"+subkey
                     # add data
                     if columname not in dataframe:
-                        dataframe[columname] = []
+                        dataframe[columname] = [None] * counter
                     dataframe[columname].append(d[key][subkey])
-
             else:
                 columname = key
                 if columname not in dataframe:
-                    dataframe[columname] = [] 
+                    dataframe[columname] = [None] * counter
                 dataframe[columname].append(d[key])
-        
+        counter += 1
+
     df = pd.DataFrame(dataframe)
     df.to_csv(output_file)
     return output_file
