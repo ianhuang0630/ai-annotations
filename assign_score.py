@@ -102,6 +102,15 @@ def assign(input_folder: str,
             print(f"invalid option {yesno}")
 
 
+    for f in files:
+        try:
+            with open(f, "r") as fi:
+                raw_text = fi.read()
+
+        except Exception as e:
+            print(f"{f} gave the following error: \n{e}")
+            exit()
+
 
     for f in tqdm(files):
         with open(f, "r") as fi:
